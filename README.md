@@ -1,1 +1,1 @@
-多线程设计模式学习
+learn multiple thread pattern in java 
